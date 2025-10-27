@@ -8,3 +8,8 @@ matplotlib
 jupyter
 tqdm
 skin-tone-classifier[all]
+fastapi
+uvicorn[standard]
+python-multipart
+tqdm
+scikit-image
